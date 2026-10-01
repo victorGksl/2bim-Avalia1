@@ -42,4 +42,4 @@ Framework preset: `None`. Build command: vazio. Build output directory: `public`
 
 Nome: Victor Gabriel Kovalski de Barros
 RA: 202610837
-URL: https://
+URL: https://2bim-avalia1-5pj.pages.dev
