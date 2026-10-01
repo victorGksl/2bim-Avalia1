@@ -4,7 +4,7 @@
 
 // Client ID do OAuth (Web application) criado no Google Cloud Console.
 // O Client ID e publico; pode ficar no repositorio.
-const GOOGLE_CLIENT_ID = "COLE_AQUI_SEU_CLIENT_ID.apps.googleusercontent.com";
+const GOOGLE_CLIENT_ID = "811495618009-jip2ni2l9hmt6cjkc3gnlufm0e0fbvi5.apps.googleusercontent.com";
 
 const formulario = document.getElementById("formulario");
 const campoNumero = document.getElementById("numero");
